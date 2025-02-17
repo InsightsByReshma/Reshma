@@ -1,5 +1,3 @@
-# Reshma
-Personal
 # Hello, I'm Reshma Radhakrishnan 👋
 
 🔹 Data Analyst | AI & ML Enthusiast | Python Developer
